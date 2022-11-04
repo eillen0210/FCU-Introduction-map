@@ -1,0 +1,49 @@
+.log{
+    background-color:white;
+    position:absolute;
+    top:10;
+    right:15;
+ }
+.headbox {
+    background-color: #99000F;
+    height: 100px;
+}
+.headtext {
+    position:absolute;
+    top:10;
+    left:15;
+    color: white;
+    font-family:標楷體;
+}
+.feedback{
+    position:absolute;
+    bottom:10;
+    right:15;
+}
+.fbox{
+    height: 200;
+    width: 200;
+}
+.logout{
+    background-color:white;
+    border:2px #cccccc solid;
+    position:absolute;
+    top:20;
+    right: 20px;
+ }
+.LookFeedback{
+    position:absolute;
+    top:130;
+    right: 250px;
+}
+#map {
+    height: 450;
+    left: 1px;
+    width: 1000;
+   }
+.img{
+    height: 50;
+    /* right: 1px; */
+    width: 50;
+}
+
